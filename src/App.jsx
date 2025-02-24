@@ -34,7 +34,7 @@ const questions = [
     {
       question: "7. Which country surpassed China as the world's top exporter in 2024?",
       options: ["Germany", "India", "Japan", "South Korea"],
-      answer: "Germany",
+      answer: "India",
     },
     {
       question: "8. What was the primary reason for the U.S. reintroducing tariffs on Chinese EVs in 2025?",
@@ -54,12 +54,12 @@ const questions = [
     {
       question: "11. As of February 2025, which company became the world's most valuable tech company by market capitalization?",
       options: ["Amazon", "Apple", "Nvidia", "Microsoft"],
-      answer: "Nvidia",
+      answer: "Apple",
     },
     {
-      question: "12. Which luxury brand completed a $12 billion merger with Richemont in 2024?",
-      options: ["LVMH", "Kering", "Prada", "Burberry"],
-      answer: "LVMH",
+      question: "12. What is an economic sanction?",
+      options: [ "A tax levied on imported goods", "A legal requirement for businesses to follow international labor laws", "A government-imposed restriction on trade or financial transactions with another country", "A regulation that limits domestic market competition"],
+      answer: "A government-imposed restriction on trade or financial transactions with another country",
     },
     {
       question: "13. Which company led the race in AI chip production in 2025?",
@@ -67,9 +67,9 @@ const questions = [
       answer: "Nvidia",
     },
     {
-      question: "14. Which automaker announced a record-breaking $10 billion investment in U.S. EV production in 2025?",
-      options: ["Tesla", "Toyota", "Ford", "Volkswagen"],
-      answer: "Ford",
+      question: "14. What was the key reason for Bitcoin surpassing $100,000 in early 2025?",
+      options: [ "Rising inflation", "Government regulations easing", "High retail investor interest","Institutional adoption and ETF approvals",],
+      answer: "Institutional adoption and ETF approvals",
     },
     {
       question: "15. What caused the biggest crash in global stock markets in late 2024?",
@@ -114,17 +114,17 @@ const questions = [
     {
       question: "23. Which global organization was criticized for failing to regulate AI and data monopolies?",
       options: ["WTO", "IMF", "UNCTAD", "BIS"],
-      answer: "UNCTAD",
+      answer: "WTO",
     },
     {
       question: "24. Which African country saw the highest GDP growth in 2024?",
       options: ["Nigeria", "Kenya", "South Africa", "Egypt"],
-      answer: "Kenya",
+      answer: "Nigeria",
     },
     {
       question: "25. Which company became the first to develop a commercial quantum computer with practical applications in 2025?",
       options: ["IBM", "Google", "Microsoft", "Intel"],
-      answer: "IBM",
+      answer: "Google",
     },
     {
       question: "26. Which South American country became the leader in lithium production in 2025?",
@@ -142,19 +142,19 @@ const questions = [
       answer: "Elon Musk",
     },
     {
-      question: "29. Which billionaire was the biggest philanthropist of 2024, donating over $15 billion?",
-      options: ["Warren Buffett", "Bill Gates", "Jeff Bezos", "MacKenzie Scott"],
-      answer: "MacKenzie Scott",
+      question: "29. Who is the CEO of Starbucks?",
+      options: ["Howard Schultz", "Laxman Narasimhan", "Kevin Johnson", "Rosalind Brewer"],
+      answer: "Laxman Narasimhan",
     },
     {
       question: "30. Which social media platform saw the fastest user growth in 2024?",
       options: ["TikTok", "X (formerly Twitter)", "Instagram", "LinkedIn"],
-      answer: "TikTok",
+      answer: "Instagram",
     },
     {
-      question: "31. Which country saw the largest corporate tax hike in 2025?",
-      options: ["United Kingdom", "United States", "Japan", "France"],
-      answer: "Japan",
+      question: "31. Which term refers to business strategies that comply with ethical standards, environmental laws, and human rights?",
+      options: ["Corporate Social Responsibility (CSR)", "Shareholder Value Maximization", "Business Process Reengineering", "Lean Management"],
+      answer: "Corporate Social Responsibility (CSR)",
     },
     {
       question: "32. Which company was fined $10 billion for privacy violations in 2025?",
@@ -237,22 +237,17 @@ const questions = [
       answer: "Enron",
     },
     {
-      question: "48. Which company is often credited with the invention of modern e-commerce?",
-      options: ["Alibaba", "Amazon", "eBay", "Shopify"],
-      answer: "Amazon",
-    },
-    {
-      question: "49. Which innovation is associated with Henry Ford?",
+      question: "48. Which innovation is associated with Henry Ford?",
       options: ["Assembly line production", "Just-in-time manufacturing", "Electric cars", "Cryptocurrency"],
       answer: "Assembly line production",
     },
     {
-      question: "50. Which company is a pioneer in cloud computing services?",
+      question: "49. Which company is a pioneer in cloud computing services?",
       options: ["Amazon (AWS)", "IBM", "Oracle", "Facebook"],
       answer: "Amazon (AWS)",
     },
     {
-      question: "51. Which modern tech company was founded in a garage in 1976?",
+      question: "50. Which modern tech company was founded in a garage in 1976?",
       options: ["Apple", "Google", "Microsoft", "Tesla"],
       answer: "Apple",
     },
