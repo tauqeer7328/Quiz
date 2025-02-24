@@ -94,12 +94,12 @@ const questions = [
     {
       question: "19. Which country was blacklisted by the OECD for financial secrecy in 2025?",
       options: ["Panama", "Switzerland", "Luxembourg", "Singapore"],
-      answer: "Panama",
+      answer: "Switzerland",
     },
     {
       question: "20. Which region introduced strict new ESG (Environmental, Social, and Governance) reporting laws in 2024?",
       options: ["United States", "European Union", "China", "Australia"],
-      answer: "European Union",
+      answer: "United States",
     },
     {
       question: "21. Which country's tech antitrust laws forced Google to divest part of its ad business in 2025?",
