@@ -24,7 +24,7 @@ const questions = [
     {
       question: "5. In January 2025, which company announced the acquisition of Inari Medical for $4.9 billion?",
       options: ["a) Medtronic", "b) Johnson & Johnson", "c) Stryker", "d) Boston Scientific"],
-      answer: "Stryker",
+      answer: "c) Stryker",
     },
     {
       question: "6. Which company was the first to reach a $1 trillion market capitalization?",
