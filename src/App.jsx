@@ -99,12 +99,12 @@ const questions = [
     {
       question: "20. Which region introduced strict new ESG (Environmental, Social, and Governance) reporting laws in 2024?",
       options: ["United States", "European Union", "China", "Australia"],
-      answer: "United States",
+      answer: "European Union",
     },
     {
       question: "21. Which country's tech antitrust laws forced Google to divest part of its ad business in 2025?",
       options: ["United States", "China", "European Union", "India"],
-      answer: "European Union",
+      answer: "United States",
     },
     {
       question: "22. In 2025, what major tax policy did the G20 agree on?",
