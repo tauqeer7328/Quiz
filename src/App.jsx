@@ -24,7 +24,7 @@ const questions = [
     {
       question: "5. In January 2025, which company announced the acquisition of Inari Medical for $4.9 billion?",
       options: ["a) Medtronic", "b) Johnson & Johnson", "c) Stryker", "d) Boston Scientific"],
-      answer: "d) Boston Scientific",
+      answer: "Stryker",
     },
     {
       question: "6. Which company was the first to reach a $1 trillion market capitalization?",
@@ -114,12 +114,12 @@ const questions = [
     {
       question: "23. Which global organization was criticized for failing to regulate AI and data monopolies?",
       options: ["WTO", "IMF", "UNCTAD", "BIS"],
-      answer: "WTO",
+      answer: "UNCTAD",
     },
     {
       question: "24. Which African country saw the highest GDP growth in 2024?",
       options: ["Nigeria", "Kenya", "South Africa", "Egypt"],
-      answer: "Nigeria",
+      answer: "Kenya",
     },
     {
       question: "25. Which company became the first to develop a commercial quantum computer with practical applications in 2025?",
@@ -142,54 +142,49 @@ const questions = [
       answer: "Elon Musk",
     },
     {
-      question: "28. Which billionaire was the biggest philanthropist of 2024, donating over $15 billion?",
+      question: "29. Which billionaire was the biggest philanthropist of 2024, donating over $15 billion?",
       options: ["Warren Buffett", "Bill Gates", "Jeff Bezos", "MacKenzie Scott"],
       answer: "MacKenzie Scott",
     },
     {
-      question: "29. Which social media platform saw the fastest user growth in 2024?",
+      question: "30. Which social media platform saw the fastest user growth in 2024?",
       options: ["TikTok", "X (formerly Twitter)", "Instagram", "LinkedIn"],
       answer: "TikTok",
     },
     {
-      question: "30. Which country saw the largest corporate tax hike in 2025?",
+      question: "31. Which country saw the largest corporate tax hike in 2025?",
       options: ["United Kingdom", "United States", "Japan", "France"],
       answer: "Japan",
     },
     {
-      question: "31. Which company was fined $10 billion for privacy violations in 2025?",
+      question: "32. Which company was fined $10 billion for privacy violations in 2025?",
       options: ["Meta (Facebook)", "Google", "Amazon", "TikTok"],
       answer: "Meta (Facebook)",
     },
     {
-      question: "32. Which economic theory supports free trade by arguing that countries should specialize in goods they can produce most efficiently?",
+      question: "33. Which economic theory supports free trade by arguing that countries should specialize in goods they can produce most efficiently?",
       options: ["Keynesian Theory", "Absolute Advantage", "Comparative Advantage", "Game Theory"],
       answer: "Comparative Advantage",
     },
     {
-      question: "33. Which international financial institution provides loans and grants to developing countries for capital projects?",
+      question: "34. Which international financial institution provides loans and grants to developing countries for capital projects?",
       options: ["World Bank", "International Monetary Fund (IMF)", "Bank for International Settlements", "United Nations Development Programme"],
       answer: "World Bank",
     },
     {
-      question: "34. The term 'balance of payments' refers to:",
+      question: "35. The term 'balance of payments' refers to:",
       options: ["A country's financial transactions with the rest of the world", "The trade balance only", "The amount of money held in foreign reserves", "The country's domestic monetary policy"],
       answer: "A country's financial transactions with the rest of the world",
     },
     {
-      question: "35. Which economist is credited with the theory of 'creative destruction,' which explains how innovation disrupts industries?",
+      question: "36. Which economist is credited with the theory of 'creative destruction,' which explains how innovation disrupts industries?",
       options: ["John Maynard Keynes", "Adam Smith", "Milton Friedman", "Joseph Schumpeter"],
       answer: "Joseph Schumpeter",
     },
     {
-      question: "36. What is the primary purpose of the World Trade Organization (WTO)?",
+      question: "37. What is the primary purpose of the World Trade Organization (WTO)?",
       options: ["To regulate international trade and resolve disputes", "To provide loans to developing nations", "To stabilize global currency exchange rates", "To impose tariffs on unfair trading nations"],
       answer: "To regulate international trade and resolve disputes",
-    },
-    {
-      question: "37. What is the legal principle that prevents a government from expropriating foreign investments without compensation?",
-      options: ["National Treatment", "Sovereign Immunity", "Capital Controls", "Trade Reciprocity"],
-      answer: "Sovereign Immunity",
     },
     {
       question: "38. The European Union’s GDPR law primarily concerns:",
